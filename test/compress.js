@@ -1,2 +1,2 @@
-const compress = require('../build/compress.js')
+const compress = require('../index.js')
 console.log(compress)
